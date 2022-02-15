@@ -1,0 +1,5 @@
+**/debug/
+**/target/
+**/*.exe
+**/*.pdb
+**/Cargo.lock
